@@ -1,0 +1,18 @@
+# 컴퓨터 및 편집기 임시 파일
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.log
+*.tmp
+*.bak
+~$*
+
+# 비밀 설정 및 개발용 파일
+.env
+.env.*
+node_modules/
+__pycache__/
+.sites-runtime/
+.wrangler/
